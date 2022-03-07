@@ -1,0 +1,9 @@
+{
+    "env": {
+        "MYSQL_USER" : "root",
+        "MYSQL_PASSWORD" : "",
+        "MYSQL_DATABASE": "teste_ ubistart",
+        "MYSQL_HOST" : "localhost",
+        "MYSQL_PORT" : 3306
+    }
+}
