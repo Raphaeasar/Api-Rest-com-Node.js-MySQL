@@ -11,4 +11,17 @@ npm install
 
 Agora é so rodar o projeto. Digitar o comando no terminal:
 
-nodemon server.js
+nodemon server.js ou npm start
+
+
+Usar o Insominia ou Postman para fazer teste das rotas.
+
+Rota para criação de usuário: http://localhost:3000/usuarios/ método POST,
+
+Rota para listar usuário: http://localhost:3000/usuarios/ método GET,
+
+Rota para listar usuário pelo ID: http://localhost:3000/usuarios/id método GET,
+
+Rota para atualizar/alterar dados da usuário: http://localhost:3000/usuarios/ método PATCH,
+
+Rota para excluir usuário: http://localhost:3000/usuarios/ método DELETE,
