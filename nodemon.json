@@ -2,7 +2,7 @@
     "env": {
         "MYSQL_USER" : "root",
         "MYSQL_PASSWORD" : "",
-        "MYSQL_DATABASE": "teste_ ubistart",
+        "MYSQL_DATABASE": "teste_ubistart",
         "MYSQL_HOST" : "localhost",
         "MYSQL_PORT" : 3306
     }
